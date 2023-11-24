@@ -2,7 +2,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ================================================================================================================================================  
 Data Scientist | Machine Learning Engineer 
 -------------------------------------------  
-I'm a skilled data scientist with expertise in machine learning, statistical analysis, and predictive modeling. Passionate about transforming complex data into actionable insights, I actively contribute to the data science community and thrive in dynamic, innovative environments. Let's explore the possibilities within data together.  * 🌍  I'm based in Cianjur * 🖥️  See my portfolio at [Data Science Portfolio - Daniel Rivalsyah](http://github.com/katasrofi/Portfolio) * ✉️  You can contact me at [danielrivalsyah@gmail.com](mailto:danielrivalsyah@gmail.com) * 🚀  I'm currently working on [Upwork](http://upwork.com) * 🧠  I'm learning Apache Spark * 🤝  I'm open to collaborating on projects * ⚡  I am Iron Man, tell everyone
+I'm a skilled data scientist with expertise in machine learning, statistical analysis, and predictive modeling. Passionate about transforming complex data into actionable insights, I actively contribute to the data science community and thrive in dynamic, innovative environments. Let's explore the possibilities within data together.  
+* 🌍  I'm based in Cianjur
+* 🖥️  See my portfolio at [Data Science Portfolio - Daniel Rivalsyah](http://github.com/katasrofi/Portfolio)
+* ✉️  You can contact me at [danielrivalsyah@gmail.com](mailto:danielrivalsyah@gmail.com)
+* 🚀  I'm currently working on [Upwork](http://upwork.com)
+* 🧠  I'm learning Apache Spark 
+* 🤝  I'm open to collaborating on projects
+* ⚡  I am Iron Man, tell everyone
 
 ### Skills  
 
